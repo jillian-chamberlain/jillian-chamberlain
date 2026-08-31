@@ -6,15 +6,18 @@ I'm a technical support professional with a Master's in Data Analytics transitio
 
 ## 🛠️ Technical Skills
 
-- **Querying & Data:** SQL (queries, joins, filters, troubleshooting), Excel (Pivot Tables, VLOOKUP, filters, formulas)
-- **BI & Visualization:** Power BI (actively developing), Azure
+- **Querying & Data:** SQL (queries, joins, filters, troubleshooting), SQLite (data cleaning, data analysis, data visualization) Excel (Pivot Tables, VLOOKUP, filters, formulas)
+- **BI & Visualization:** Power BI (actively developing)
 - **Languages:** Python, R
-- **Tools:** Postman, Zendesk, ServiceNow, Git
+- **Tools:** Postman, Zendesk, ServiceNow, Git, Jupyter Notebook
 - **Competencies:** Data Validation & Quality Control, Issue Investigation & Resolution, Technical Documentation
 
 ---
 
 ## 📂 Featured Projects
+
+### 🏥 [Hospital Readmissions Analysis](https://github.com/jillian-chamberlain/hospital-readmissions-analysis)
+An end-to-end analysis of 100,000+ diabetic patient records from 130 US hospitals, using Python, SQL, and data visualization to identify characteristics associated with early hospital readmission. Built with pandas, SQLite, and matplotlib.
 
 ### 🎫 [Support Ticket Analysis](https://github.com/jillian-chamberlain/support-ticket-analysis)
 A Python-based analysis of customer support ticket data exploring resolution efficiency, agent performance, and the relationship between ticket interactions and customer satisfaction. Built with pandas and matplotlib.
